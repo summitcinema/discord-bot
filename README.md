@@ -2,6 +2,11 @@
 This is the Discord bot for Summit Cinema's Discord server.
 
 ## Setting up
+
+### Install dependencies
+Simply run `pip install -r requirements.txt` in the top-most directory.
+
+### Add bot token
 The bot requires a `bot_constants.py` file in the top-most directory in order for the bot to run. This file contains the bot's Discord token.
 
 It should be formatted like so:
