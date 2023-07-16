@@ -1,3 +1,15 @@
+# Repo-specific
+bot_constants.py
+*.sh
+.vscode/*.*
+
+# Linux
+.directory
+
+#
+# Native Python .gitignore
+#
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
