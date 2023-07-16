@@ -3,6 +3,11 @@ bot_constants.py
 *.sh
 .vscode/*.*
 
+# Symbolic links
+fonts
+images
+videos
+
 # Linux
 .directory
 
