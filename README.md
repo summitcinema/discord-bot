@@ -1,5 +1,5 @@
 # Dr. Isaac Kleiner Bot
-This is the Discord bot for Summit Cinema's Discord server.
+This is the Discord bot for Summit Cinema's Discord server, based on the famous character Dr. Isaac Kleiner from the Half-Life series.
 
 ## Setting up
 
@@ -13,6 +13,9 @@ It should be formatted like so:
 ```py
 DISCORD_API_TOKEN = "TOKEN_GOES_HERE"
 ```
+
+### Run the bot
+Simply run `python3 bot_start.py`.
 
 ## Cogs
 This Discord bot uses cogs to organize its commands into separate files.
