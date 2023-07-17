@@ -111,7 +111,7 @@ class Info(commands.Cog):
                 break
 
     @movienight.command(
-        description="Adds the movie night role, if you don't already have it.",
+        description="Removes the movie night role if you currently have it.",
         aliases=["deleterole", "delrole"]
     )
     @commands.cooldown(1, 1, commands.BucketType.channel)
