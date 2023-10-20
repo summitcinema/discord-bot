@@ -32,6 +32,17 @@ class Fun(commands.Cog):
             "https://i.kym-cdn.com/photos/images/original/002/466/028/803",
             "https://i.kym-cdn.com/photos/images/original/002/485/959/078",
             "https://i.kym-cdn.com/photos/images/original/002/345/872/da9.jpg",
+            "https://i.kym-cdn.com/photos/images/original/002/677/158/1c1",
+            "https://i.kym-cdn.com/photos/images/original/002/676/052/6b6",
+            "https://i.kym-cdn.com/photos/images/original/002/675/592/255",
+            "https://i.kym-cdn.com/photos/images/original/002/645/827/09d.png",
+            "https://i.kym-cdn.com/photos/images/original/002/672/826/1f2.gif",
+            "https://i.kym-cdn.com/photos/images/original/002/645/826/8d4.png",
+            "https://i.kym-cdn.com/photos/images/original/002/624/908/041",
+            "https://i.kym-cdn.com/photos/images/original/002/595/660/8d0",
+            "https://i.kym-cdn.com/photos/images/original/002/539/383/cb6",
+            "https://i.kym-cdn.com/photos/images/original/002/505/974/9d6",
+            "https://i.kym-cdn.com/photos/images/original/002/535/098/f8f",
 
             "https://images.goodsmile.info/cgm/images/product/20100621/2889/10464/large/8268e868588add7d4158ad40281f06a6.jpg",
 
@@ -50,6 +61,53 @@ class Fun(commands.Cog):
             "https://tenor.com/view/neco-arc-neco-rumba-dance-rumba-gif-23889144",
             "https://tenor.com/view/neko-neco-arc-neco-arc-neko-arc-gif-22451604",
             "https://tenor.com/view/typemoon-neco-arc-melty-blood-kamehameha-kamehameha-neco-arc-gif-26194611",
+
+            # Bury the Light
+            "https://www.youtube.com/watch?v=CfP3T834x_A",
+            # Big Iron
+            "https://www.youtube.com/watch?v=0nLgDA7zgrs",
+            # Hey Ya!
+            "https://www.youtube.com/watch?v=1Coqp5NaK1M",
+            # Starboy
+            "https://www.youtube.com/watch?v=Dhz43C7_2Tk",
+            # Skillet - Monster
+            "https://www.youtube.com/watch?v=NdgWUeylzQk",
+            # Nelly - Dilemma
+            "https://www.youtube.com/watch?v=iGiKqRikSJ8",
+            # Boa - Duvet
+            "https://www.youtube.com/watch?v=c_fZNDjRp5Q",
+            # Lagtrain
+            "https://www.youtube.com/watch?v=4LMjbWDYsGs",
+            # Space Song
+            "https://www.youtube.com/watch?v=0aKO3RMf_HM",
+            # Take On Me
+            "https://www.youtube.com/watch?v=80iYEaz5RU8",
+            # I'm Still Standing
+            "https://www.youtube.com/watch?v=o5PzQlU1ZaI",
+            # Just the Two of Us
+            "https://www.youtube.com/watch?v=YfwvpIyCKYk",
+            # Mustard - Ballin'
+            "https://www.youtube.com/watch?v=XZU5wtbPzd8",
+            # Fetty Wap - 679
+            "https://www.youtube.com/watch?v=JQZyL2amu4E",
+            # Numa Numa
+            "https://www.youtube.com/watch?v=_saqLyXogkQ",
+            # Crazy Frog
+            "https://www.youtube.com/watch?v=lphmuLHY2lI",
+            # Fly Me to the Moon
+            "https://www.youtube.com/watch?v=YzYdM0nUkTQ",
+            # RDR2 House Building Theme
+            "https://www.youtube.com/watch?v=i_Riw9Hh-K0",
+            # Welcome to the Internet
+            "https://www.youtube.com/watch?v=_wgHqgP0WX8",
+            # Two Trucks
+            "https://www.youtube.com/watch?v=E28ryC5dEYE",
+            # What Does the Fox Say
+            "https://www.youtube.com/watch?v=qCue2uGWZbY",
+            # You're Gonna Go Far Kid
+            "https://www.youtube.com/watch?v=8_kA9d1_gTk",
+            # Sabaton - Night Witches
+            "https://www.youtube.com/watch?v=O-F2rdgcdQk"
         )
 
         self.RANDOM_WEED_MESSAGES = (
