@@ -53,7 +53,7 @@ class ColorRoles(commands.Cog):
         target_user = ctx.author
 
         # If the user is not Nitro boosting, and is not the guild owner
-        if ctx.author.premium_since is None and ctx.author != ctx.guild.owner:
+        if target_user.premium_since is None and target_user != ctx.guild.owner:
             await ctx.send("You need to Nitro boost this server to use color roles!")
             return
 
